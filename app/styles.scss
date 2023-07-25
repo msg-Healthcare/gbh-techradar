@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+$primary: #a01441;
+
+:root {
+  --background-color: #fff;
+  --text-color: #000;
+  --text-color-secondary: #5c5c5c;
+  --primary-color: #a01441;
+  --secondary-ring-color: #B1B2B1;
+  --tertiary-ring-color: #CFD0CF;
+  --quaternary-ring-color: #E2E3E2;
+  --logo-url: url("../public/msg_logo-light.svg");
+  --chevron-url: url("../public/chevron-light.svg");
+  --mode-switch-url: url("../public/light-mode.svg");
+  background-color: var(--text-color-secondary);
+}
+
+[data-theme='dark'] {
+  --background-color: #121212;
+  --text-color: #fff;
+  --text-color-secondary: #d7d7d7;
+  --primary-color: #840b2a;
+  --secondary-ring-color: #9e9e9e;
+  --tertiary-ring-color: #757575;
+  --quaternary-ring-color: #616161;
+  --logo-url: url("../public/msg_logo-dark.svg");
+  --chevron-url: url("../public/chevron-dark.svg");
+  --mode-switch-url: url("../public/dark-mode.svg");
+  background-color: var(--background-color);
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+radar-element {
+  --radar-element-tooltip-accent-color: var(--primary-color);
+  --radar-element-tooltip-section-color: var(--text-color-secondary);
+  --radar-element-tooltip-background-color: var(--background-color);
+  --radar-element-tooltip-label-color: var(--text-color);
+  --radar-element-background-color: var(--background-color);
+  --radar-element-grid-color: var(--background-color);
+  --radar-element-section-color: var(--text-color);
+}
+
+.container-fluid {
+  max-width: 100%;
+}

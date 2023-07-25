@@ -1,0 +1,27 @@
+@import "app/styles";
+
+.navbar {
+  border-top: 0.2rem solid #A7B0B7;
+  background-color: rgba(255,255,255, 0.15) !important;
+}
+
+.navbar-brand {
+  content: var(--logo-url);
+  width: 120px;
+  height: 48px;
+}
+
+.dark-mode-button {
+  background-color: rgba(255,255,255, 0) !important;
+}
+
+.dark-mode-button:focus, .dark-mode-button:active {
+  box-shadow: none !important;
+  outline: 0 !important;
+}
+
+.dark-mode-image {
+  content: var(--mode-switch-url);
+  width: 16px;
+  height: 16px;
+}

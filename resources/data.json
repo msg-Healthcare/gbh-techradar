@@ -1,0 +1,583 @@
+[
+  {
+    "id": 12,
+    "label": "Javascript",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": null
+  },
+  {
+    "id": 18,
+    "label": "LeSS",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": "http://lesscss.org/"
+  },
+  {
+    "id": 19,
+    "label": "CSS",
+    "section_id": "languages",
+    "ring_id": "hold",
+    "link": null
+  },
+  {
+    "id": 21,
+    "label": "REST",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": null
+  },
+  {
+    "id": 24,
+    "label": "Scala",
+    "section_id": "languages",
+    "ring_id": "hold",
+    "link": "https://www.scala-lang.org/"
+  },
+  {
+    "id": 25,
+    "label": "Elixir",
+    "section_id": "languages",
+    "ring_id": "hold",
+    "link": "https://elixir-lang.org/"
+  },
+  {
+    "id": 29,
+    "label": "JSON",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": "https://www.json.org/"
+  },
+  {
+    "id": 30,
+    "label": "YAML",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": null
+  },
+  {
+    "id": 32,
+    "label": "Markdown",
+    "section_id": "languages",
+    "ring_id": "trial",
+    "link": "https://www.markdownguide.org/"
+  },
+  {
+    "id": 36,
+    "label": "Angular",
+    "section_id": "frameworks",
+    "ring_id": "adopt",
+    "link": "https://angular.io/"
+  },
+  {
+    "id": 38,
+    "label": "Vue",
+    "section_id": "frameworks",
+    "ring_id": "trial",
+    "link": "https://vuejs.org/"
+  },
+  {
+    "id": 42,
+    "label": "Ionic",
+    "section_id": "frameworks",
+    "ring_id": "trial",
+    "link": "https://ionicframework.com/"
+  },
+  {
+    "id": 45,
+    "label": "Node.js",
+    "section_id": "frameworks",
+    "ring_id": "hold",
+    "link": "https://nodejs.org/"
+  },
+  {
+    "id": 49,
+    "label": "Selenium",
+    "section_id": "frameworks",
+    "ring_id": "hold",
+    "link": "https://www.selenium.dev/"
+  },
+  {
+    "id": 52,
+    "label": "Spock",
+    "section_id": "frameworks",
+    "ring_id": "assess",
+    "link": "http://spockframework.org/"
+  },
+  {
+    "id": 57,
+    "label": "PostgreSQL",
+    "section_id": "storage",
+    "ring_id": "adopt",
+    "link": "https://www.postgresql.org/"
+  },
+  {
+    "id": 58,
+    "label": "MongoDB",
+    "section_id": "storage",
+    "ring_id": "assess",
+    "link": "https://www.mongodb.com/"
+  },
+  {
+    "id": 59,
+    "label": "Redis",
+    "section_id": "storage",
+    "ring_id": "assess",
+    "link": "https://redis.io/"
+  },
+  {
+    "id": 62,
+    "label": "Elasticsearch",
+    "section_id": "storage",
+    "ring_id": "trial",
+    "link": "https://www.elastic.co/elasticsearch//"
+  },
+  {
+    "id": 64,
+    "label": "MariaDB",
+    "section_id": "storage",
+    "ring_id": "assess",
+    "link": "https://mariadb.org/"
+  },
+  {
+    "id": 66,
+    "label": "H2",
+    "section_id": "storage",
+    "ring_id": "assess",
+    "link": "https://www.h2database.com/"
+  },
+  {
+    "id": 67,
+    "label": "Docker",
+    "section_id": "infrastructure",
+    "ring_id": "adopt",
+    "link": "https://www.docker.com/"
+  },
+  {
+    "id": 68,
+    "label": "Kubernetes",
+    "section_id": "infrastructure",
+    "ring_id": "adopt",
+    "link": "https://kubernetes.io/"
+  },
+  {
+    "id": 69,
+    "label": "Maesh",
+    "section_id": "infrastructure",
+    "ring_id": "trial",
+    "link": "https://containo.us/maesh/"
+  },
+  {
+    "id": 70,
+    "label": "Istio",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://istio.io/"
+  },
+  {
+    "id": 71,
+    "label": "Helm",
+    "section_id": "infrastructure",
+    "ring_id": "adopt",
+    "link": "https://helm.sh/"
+  },
+  {
+    "id": 72,
+    "label": "Keycloak",
+    "section_id": "infrastructure",
+    "ring_id": "trial",
+    "link": "https://www.keycloak.org/"
+  },
+  {
+    "id": 73,
+    "label": "Vault",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://www.vaultproject.io/"
+  },
+  {
+    "id": 74,
+    "label": "ELK-Stack",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://www.elastic.co/elastic-stack"
+  },
+  {
+    "id": 75,
+    "label": "Prometheus",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://prometheus.io/"
+  },
+  {
+    "id": 76,
+    "label": "Jaeger",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://www.jaegertracing.io/"
+  },
+  {
+    "id": 77,
+    "label": "Zipkin",
+    "section_id": "infrastructure",
+    "ring_id": "assess",
+    "link": "https://zipkin.io/"
+  },
+  {
+    "id": 78,
+    "label": "Terraform",
+    "section_id": "infrastructure",
+    "ring_id": "hold",
+    "link": "https://www.terraform.io/"
+  },
+  {
+    "id": 79,
+    "label": "Ansible",
+    "section_id": "infrastructure",
+    "ring_id": "hold",
+    "link": "https://www.ansible.com/"
+  },
+  {
+    "id": 80,
+    "label": "Nginx",
+    "section_id": "infrastructure",
+    "ring_id": "trial",
+    "link": "https://www.nginx.com/"
+  },
+  {
+    "id": 81,
+    "label": "Traefik",
+    "section_id": "infrastructure",
+    "ring_id": "trial",
+    "link": "https://containo.us/traefik/"
+  },
+  {
+    "id": 82,
+    "label": "Apache Webserver",
+    "section_id": "infrastructure",
+    "ring_id": "hold",
+    "link": "https://httpd.apache.org/"
+  },
+  {
+    "id": 9,
+    "label": "Java",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": null
+  },
+  {
+    "id": 10,
+    "label": "Typescript",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": "https://www.typescriptlang.org/"
+  },
+  {
+    "id": 20,
+    "label": "OpenAPI",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": "https://swagger.io/docs/specification/about/"
+  },
+  {
+    "id": 23,
+    "label": "GraphQL",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": "https://graphql.org/"
+  },
+  {
+    "id": 14,
+    "label": "Kotlin",
+    "section_id": "languages",
+    "ring_id": "trial",
+    "link": "https://kotlinlang.org/"
+  },
+  {
+    "id": 28,
+    "label": "Bash",
+    "section_id": "languages",
+    "ring_id": "adopt",
+    "link": null
+  },
+  {
+    "id": 33,
+    "label": "AsciiDoc",
+    "section_id": "languages",
+    "ring_id": "trial",
+    "link": "https://asciidoc.org/"
+  },
+  {
+    "id": 13,
+    "label": "Swift",
+    "section_id": "languages",
+    "ring_id": "hold",
+    "link": "https://www.apple.com/de/swift/"
+  },
+  {
+    "id": 17,
+    "label": "SCSS",
+    "section_id": "languages",
+    "ring_id": "trial",
+    "link": "https://sass-lang.com/"
+  },
+  {
+    "id": 22,
+    "label": "gRPC",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": "https://grpc.io/"
+  },
+  {
+    "id": 15,
+    "label": "Python",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": null
+  },
+  {
+    "id": 16,
+    "label": "Dart",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": "https://dart.dev/"
+  },
+  {
+    "id": 35,
+    "label": "Spring Boot",
+    "section_id": "frameworks",
+    "ring_id": "adopt",
+    "link": "https://springId.io/projects/springId-boot"
+  },
+  {
+    "id": 34,
+    "label": "JakartaEE",
+    "section_id": "frameworks",
+    "ring_id": "hold",
+    "link": "https://jakarta.ee/"
+  },
+  {
+    "id": 48,
+    "label": "Cypress",
+    "section_id": "frameworks",
+    "ring_id": "adopt",
+    "link": "https://www.cypress.io/"
+  },
+  {
+    "id": 51,
+    "label": "JUnit",
+    "section_id": "frameworks",
+    "ring_id": "adopt",
+    "link": "https://junit.org/junit5/"
+  },
+  {
+    "id": 39,
+    "label": "Quarkus",
+    "section_id": "frameworks",
+    "ring_id": "trial",
+    "link": "https://quarkus.io/"
+  },
+  {
+    "id": 40,
+    "label": "Micronaut",
+    "section_id": "frameworks",
+    "ring_id": "assess",
+    "link": "https://micronaut.io/"
+  },
+  {
+    "id": 53,
+    "label": "Kafka",
+    "section_id": "storage",
+    "ring_id": "adopt",
+    "link": "https://kafka.apache.org/"
+  },
+  {
+    "id": 60,
+    "label": "min.io",
+    "section_id": "storage",
+    "ring_id": "adopt",
+    "link": "https://min.io/"
+  },
+  {
+    "id": 83,
+    "label": "Maven",
+    "section_id": "tools",
+    "ring_id": "adopt",
+    "link": "https://maven.apache.org/"
+  },
+  {
+    "id": 84,
+    "label": "Gradle",
+    "section_id": "tools",
+    "ring_id": "trial",
+    "link": "https://gradle.org/"
+  },
+  {
+    "id": 85,
+    "label": "Ant",
+    "section_id": "tools",
+    "ring_id": "hold",
+    "link": "https://ant.apache.org/"
+  },
+  {
+    "id": 86,
+    "label": "npm",
+    "section_id": "tools",
+    "ring_id": "adopt",
+    "link": "https://www.npmjs.com/"
+  },
+  {
+    "id": 87,
+    "label": "Grunt",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://gruntjs.com/"
+  },
+  {
+    "id": 88,
+    "label": "Gulp",
+    "section_id": "tools",
+    "ring_id": "hold",
+    "link": "https://gulpjs.com/"
+  },
+  {
+    "id": 90,
+    "label": "Parcel",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://parceljs.org/"
+  },
+  {
+    "id": 93,
+    "label": "Locust",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://locust.io/"
+  },
+  {
+    "id": 94,
+    "label": "JMeter",
+    "section_id": "tools",
+    "ring_id": "hold",
+    "link": "https://jmeter.apache.org/"
+  },
+  {
+    "id": 95,
+    "label": "SonarQube",
+    "section_id": "tools",
+    "ring_id": "adopt",
+    "link": "https://www.sonarqube.org/"
+  },
+  {
+    "id": 96,
+    "label": "Wiremock",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "http://wiremock.org/"
+  },
+  {
+    "id": 97,
+    "label": "Testcontainers",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://www.testcontainers.org/"
+  },
+  {
+    "id": 98,
+    "label": "Arquillian",
+    "section_id": "tools",
+    "ring_id": "hold",
+    "link": "http://arquillian.org/"
+  },
+  {
+    "id": 99,
+    "label": "Storybook",
+    "section_id": "tools",
+    "ring_id": "trial",
+    "link": "https://storybook.js.org/"
+  },
+  {
+    "id": 100,
+    "label": "Backstage",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://backstage.io/"
+  },
+  {
+    "id": 101,
+    "label": "Jenkins",
+    "section_id": "tools",
+    "ring_id": "adopt",
+    "link": "https://www.jenkins.io/"
+  },
+  {
+    "id": 102,
+    "label": "drone.io",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://drone.io/"
+  },
+  {
+    "id": 103,
+    "label": "ArgoCD",
+    "section_id": "tools",
+    "ring_id": "trial",
+    "link": "https://argoproj.github.io/argo-cd/"
+  },
+  {
+    "id": 114,
+    "label": "Go",
+    "section_id": "languages",
+    "ring_id": "assess",
+    "link": null
+  },
+  {
+    "id": 113,
+    "label": "Flutter",
+    "section_id": "frameworks",
+    "ring_id": "trial",
+    "link": "https://flutter.dev/"
+  },
+  {
+    "id": 41,
+    "label": "Helidon",
+    "section_id": "frameworks",
+    "ring_id": "assess",
+    "link": "https://helidon.io/"
+  },
+  {
+    "id": 118,
+    "label": "OpenShift",
+    "section_id": "infrastructure",
+    "ring_id": "adopt",
+    "link": "https://www.redhat.com/de/technologies/cloud-computing/openshift"
+  },
+  {
+    "id": 89,
+    "label": "Webpack",
+    "section_id": "tools",
+    "ring_id": "trial",
+    "link": "https://webpack.js.org/"
+  },
+  {
+    "id": 91,
+    "label": "Rollup",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://rollupjs.org/"
+  },
+  {
+    "id": 119,
+    "label": "K6",
+    "section_id": "tools",
+    "ring_id": "trial",
+    "link": "https://k6.io/"
+  },
+  {
+    "id": 92,
+    "label": "Gatling",
+    "section_id": "tools",
+    "ring_id": "assess",
+    "link": "https://gatling.io/"
+  }
+]
